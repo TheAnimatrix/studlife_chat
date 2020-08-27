@@ -1,4 +1,4 @@
-# studlife_chat
+# Student Life
 
 The client side application for Student life.
 
