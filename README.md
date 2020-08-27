@@ -13,3 +13,6 @@ yet to complete:
 - secondary rooms (create, list, join)
 - events
 - announcements
+
+
+Tested & Works on android
