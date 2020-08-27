@@ -1,0 +1,9 @@
+
+class ChatNetwork {
+
+  ChatNetwork()
+  {
+    
+  }
+
+}
